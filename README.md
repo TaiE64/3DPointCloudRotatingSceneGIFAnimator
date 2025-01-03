@@ -1,5 +1,5 @@
 
-# PlyToGifPipeline
+# 3DPointCloudRotatingSceneGIFAnimator
 
 A Python-based pipeline to convert `.ply` point cloud files into `.mp4` videos and then further into `.gif` animations. This repository automates the process, making it easy to create visual representations of 3D data for various purposes like presentations and visual analyses.
 
